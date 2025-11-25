@@ -1,0 +1,18 @@
+name: almalinux.rsys.cloud
+cloud_type: null
+address:
+  http: http://almalinux.rsys.cloud/
+  https: https://almalinux.rsys.cloud/
+  rsync: rsync://almalinux.rsys.cloud/
+update_frequency: 3h
+sponsor: RSYS Cloud
+sponsor_url: https://rsys.cloud
+email: admin@rsys.cloud
+geolocation:
+  country: TR
+  state_province: Istanbul
+  city: Istanbul
+private: false
+monopoly: false
+asn: 34828
+cloud_regions: []
